@@ -1,0 +1,31 @@
+
+.cal{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    border-color: rebeccapurple;
+    border-radius: 10px;
+    width: 250px;
+    
+}
+.bton{
+    
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.cu{
+    
+    width: 30px;
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+    margin:3px;
+
+}
+#ip{
+    width: 80%;
+    margin: 10%;
+}
